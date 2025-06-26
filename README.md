@@ -16,23 +16,7 @@ Apesar de o meu interesse por programação ter se intensificado recentemente, j
 
 Estou sempre em busca de aprendizado contínuo, explorando novas linguagens, tecnologias e conceitos para evoluir como desenvolvedora e ampliar minha visão sobre o mundo da programação.
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/DudaFariaz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DudaFariaz?color=3c008e&style=for-the-badge&labelColor=5101a1&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DudaFariaz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DudaFariaz?color=3c008e&labelColor=6601b4&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
 
 ---
 
