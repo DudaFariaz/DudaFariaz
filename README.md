@@ -10,7 +10,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />**`Aprendiz IoT`**
 
-Olá! Me chamo Maria Eduarda, tenho 17 anos e atualmente curso Internet das Coisas (IoT). Atuo como aprendiz na área de Soluções Digitais na empresa Bosch, onde venho tendo a oportunidade de me aproximar ainda mais do universo da tecnologia.
+Olá! Me chamo Maria Eduarda, tenho 18 anos e atualmente curso Internet das Coisas (IoT). Atuo como aprendiz na área de Soluções Digitais na empresa Bosch, onde venho tendo a oportunidade de me aproximar ainda mais do universo da tecnologia.
 
 Apesar de o meu interesse por programação ter se intensificado recentemente, já realizei alguns projetos menores anteriormente. Agora, estou focada em aprofundar meus conhecimentos e desenvolver habilidades mais sólidas na área.
 
